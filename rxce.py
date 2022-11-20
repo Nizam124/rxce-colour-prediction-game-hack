@@ -82,7 +82,7 @@ def hero():
     while(y):
         clear()
         system(banner)
-        print(f"{red}Contact me on telegram @smsn_knt")
+        print(f"{red}winzO.mobi hack verson 4.7")
         print(f"{yellow}Enter ",newperiod," Bcone Price :")
         current=input()
         current=int(current)
